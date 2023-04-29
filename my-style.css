@@ -1,0 +1,54 @@
+.title2 {
+    font-size: 30px ; 
+    color:darkgoldenrod; 
+    letter-spacing: 0.5px;  
+    margin-top: 20px;
+
+}
+
+.title3 {
+    font-size: 30px ;
+    color: darkslategrey;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+
+}
+
+.title4{
+    font-size: 30px;
+    color: black;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+
+}
+.leo-box {
+    text-align: left;
+}
+
+.leo-img{
+    width:300px;
+    margin: 30px;
+    float: left;
+}
+
+.animal-img{
+    width: 200px;
+    margin: 30px;
+    float: left;
+}
+
+.snow-img{
+    width: 300px;
+    margin: 30px;
+    float: right;
+}
+
+.black-img{
+    width: 200px;
+    margin: 30px;
+    float: left;
+}
+.explanation{
+    font-size: 20px;
+    color:gray
+}
